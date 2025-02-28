@@ -1,0 +1,21 @@
+{
+  "name": "resume-analysis",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@nlpjs/basic": "^5.0.0-alpha.5",
+    "@nlpjs/lang-en-min": "^5.0.0-alpha.5",
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.11.0",
+    "node-nlp": "^5.0.0-alpha.5",
+    "spacy": "^0.0.4"
+  }
+}
